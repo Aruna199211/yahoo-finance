@@ -88,16 +88,12 @@ predict short-term movements to assist in informed investment decisions.
 
 ### 🗂️ **Project Files**
 
-  ----------------------------------------------------------------------------------------------
-  File                                         Description
-  -------------------------------------------- -------------------------------------------------
-  https://github.com/Aruna199211/yahoo-finance/blob/main/yahoo%20finance.ipynb                        Python notebook for data cleaning, visualization,
-                                               and forecasting
+| File | Description |
+|------|--------------|
+| [📘 yahoo_finance.ipynb](https://github.com/Aruna199211/yahoo-finance/blob/main/yahoo%20finance.ipynb) | Python notebook for data cleaning, visualization, and forecasting |
+| [📝 Stock_Price_Analysis_Report.docx](https://github.com/Aruna199211/yahoo-finance/blob/main/Stock_Price_Analysis_Report.docx) | Detailed project report and insights |
+| [📊 stock_analysis_&_forecast_dashboard.pbix](https://github.com/Aruna199211/yahoo-finance/blob/main/stock%20analysis%20%26%20forecast%20dashboard.pbix) | Power BI dashboard for visualization and storytelling |
 
-  Stock_Price_Analysis_Report.docx                   Detailed project report and insights
-
-  https://github.com/Aruna199211/yahoo-finance/blob/main/stock%20analysis%20%26%20forecast%20dashboard.pbix   Power BI dashboard for visualization and
-                                               storytelling
   ----------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
