@@ -1,5 +1,5 @@
 # 📈 Stock Price Analysis and Forecasting Dashboard
-https://github.com/Aruna199211/yahoo-finance/blob/main/business-hand-worker-holding-analytics-600nw-2209167625.webp
+(https://github.com/Aruna199211/yahoo-finance/blob/main/business-hand-worker-holding-analytics-600nw-2209167625.webp)
 
 ### **Project Overview**
 
@@ -31,7 +31,7 @@ predict short-term movements to assist in informed investment decisions.
   **Matplotlib & Seaborn**   Data visualization and analysis
   **Statsmodels**            Time-series forecasting
   **Power BI**               Interactive dashboard creation and reporting
-  https://github.com/Aruna199211/yahoo-finance/blob/main/Screenshot_1.png
+  (https://github.com/Aruna199211/yahoo-finance/blob/main/Screenshot_1.png)
 
 ------------------------------------------------------------------------
 
@@ -91,12 +91,12 @@ predict short-term movements to assist in informed investment decisions.
   ----------------------------------------------------------------------------------------------
   File                                         Description
   -------------------------------------------- -------------------------------------------------
-  `https://github.com/Aruna199211/yahoo-finance/blob/main/yahoo%20finance.ipynb`                        Python notebook for data cleaning, visualization,
+  https://github.com/Aruna199211/yahoo-finance/blob/main/yahoo%20finance.ipynb                        Python notebook for data cleaning, visualization,
                                                and forecasting
 
-  `Stock_Price_Analysis_Report.docx`           Detailed project report and insights
+  Stock_Price_Analysis_Report.docx           Detailed project report and insights
 
-  `https://github.com/Aruna199211/yahoo-finance/blob/main/stock%20analysis%20%26%20forecast%20dashboard.pbix`   Power BI dashboard for visualization and
+  https://github.com/Aruna199211/yahoo-finance/blob/main/stock%20analysis%20%26%20forecast%20dashboard.pbix   Power BI dashboard for visualization and
                                                storytelling
   ----------------------------------------------------------------------------------------------
 
